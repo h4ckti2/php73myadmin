@@ -1,0 +1,2 @@
+# php73myadmin
+phpmyadmin
